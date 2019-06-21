@@ -1,0 +1,19 @@
+id,name,expense account,income account,stock input account,stock output account,stock valuation account,Inventory Valuation
+persediaan_1,Persediaan Daging,Harga Pokok Penjualan,Penjualan,Stock Interim,Stock Interim,Persediaan Daging,Automated
+persediaan_2,Persediaan Ikan,Harga Pokok Penjualan,Penjualan,Stock Interim,Stock Interim,Persediaan Ikan,Automated
+persediaan_3,Persediaan Sayuran,Harga Pokok Penjualan,Penjualan,Stock Interim,Stock Interim,Persediaan Sayuran,Automated
+persediaan_4,Persediaan Keringan,Harga Pokok Penjualan,Penjualan,Stock Interim,Stock Interim,Persediaan Keringan,Automated
+persediaan_5,Persediaan Buah,Harga Pokok Penjualan,Penjualan,Stock Interim,Stock Interim,Persediaan Buah,Automated
+persediaan_6,Persediaan Fresh Drink,Harga Pokok Penjualan,Penjualan,Stock Interim,Stock Interim,Persediaan Fresh Drink,Automated
+persediaan_7,Persediaan Rokok,Harga Pokok Penjualan,Penjualan,Stock Interim,Stock Interim,Persediaan Rokok,Automated
+persediaan_8,Persediaan Makanan,Harga Pokok Penjualan,Penjualan,Stock Interim,Stock Interim,Persediaan Makanan,Automated
+persediaan_9,Persediaan Minuman,Harga Pokok Penjualan,Penjualan,Stock Interim,Stock Interim,Persediaan Minuman,Automated
+persediaan_10,Persediaan Makanan Olahan,Harga Pokok Penjualan,Penjualan,Stock Interim,Stock Interim,Persediaan Makanan Olahan,Automated
+persediaan_11,Persediaan Toiletries,Harga Pokok Penjualan,Penjualan,Stock Interim,Stock Interim,Persediaan Toiletries,Automated
+persediaan_12,"Persediaan Buku, ATK, Asesoris",Harga Pokok Penjualan,Penjualan,Stock Interim,Stock Interim,"Persediaan Buku, ATK, Asesoris",Automated
+persediaan_13,Persediaan Fashion & Textil,Harga Pokok Penjualan,Penjualan,Stock Interim,Stock Interim,Persediaan Fashion & Textil,Automated
+persediaan_14,Persediaan Perlengkapan Kebersihan,Harga Pokok Penjualan,Penjualan,Stock Interim,Stock Interim,Persediaan Perlengkapan Kebersihan,Automated
+persediaan_15,Persediaan Perlengkapan Rumah Tangga,Harga Pokok Penjualan,Penjualan,Stock Interim,Stock Interim,Persediaan Perlengkapan Rumah Tangga,Automated
+persediaan_16,Persediaan Elektronik,Harga Pokok Penjualan,Penjualan,Stock Interim,Stock Interim,Persediaan Elektronik,Automated
+persediaan_17,Persediaan Mainan,Harga Pokok Penjualan,Penjualan,Stock Interim,Stock Interim,Persediaan Mainan,Automated
+persediaan_18,Persediaan Lainnya,Harga Pokok Penjualan,Penjualan,Stock Interim,Stock Interim,Persediaan Lainnya,Automated

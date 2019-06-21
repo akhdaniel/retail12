@@ -1,0 +1,22 @@
+"External ID","Report Name","Sequence","Sign on Reports","Type","Financial Report Style","Display details","Parent","Account Types"
+"report100","Laba Rugi","10","Reverse balance sign","View","Automatic formatting","Display children flat",,
+"report101","Pendapatan","10","Reverse balance sign","Account Type","Automatic formatting","Display children with hierarchy","Laba Rugi","Income"
+"report102","Harga Pokok Pembelian","20","Preserve balance sign","Account Type","Automatic formatting","Display children with hierarchy","Laba Rugi","Cost of Revenue"
+"report103","Laba (Rugi) Kotor","30","Reverse balance sign","Account Type","Automatic formatting","No detail","Laba Rugi","Income,Cost of Revenue"
+"report104","Beban Administrasi dan Umum","40","Preserve balance sign","Account Type","Automatic formatting","Display children with hierarchy","Laba Rugi","Depreciation,Expenses"
+"report105","Pendapatan Lain-lain","50","Reverse balance sign","Account Type","Automatic formatting","Display children with hierarchy","Laba Rugi","Other Income"
+"report106","Beban Lain-lain","50","Preserve balance sign","Account Type","Automatic formatting","Display children with hierarchy","Laba Rugi",
+"report107","Laba (Rugi) Bersih","60","Reverse balance sign","Account Type","Automatic formatting","No detail","Laba Rugi","Other Income,Income,Depreciation,Expenses,Cost of Revenue"
+"report108","Neraca","10","Preserve balance sign","View","Automatic formatting","Display children flat",,
+"report109","Aktiva","10","Preserve balance sign","View","Automatic formatting","Display children flat","Neraca",
+"report110","Kas dan Setara Kas","10","Preserve balance sign","Account Type","Automatic formatting","Display children with hierarchy","Aktiva","Bank and Cash,Credit Card"
+"report111","Piutang Usaha","20","Preserve balance sign","Account Type","Automatic formatting","Display children with hierarchy","Aktiva","Receivable"
+"report112","Aktiva Lancar","30","Preserve balance sign","Account Type","Automatic formatting","Display children with hierarchy","Aktiva","Current Assets,Prepayments"
+"report113","Aktiva Tidak Lancar","30","Preserve balance sign","Account Type","Automatic formatting","Display children with hierarchy","Aktiva","Non-current Assets"
+"report114","Aktiva Tetap","30","Preserve balance sign","Account Type","Automatic formatting","Display children with hierarchy","Aktiva","Fixed Assets"
+"report115","Hutang dan Modal","20","Reverse balance sign","View","Automatic formatting","Display children flat","Neraca",
+"report116","Hutang","10","Reverse balance sign","View","Automatic formatting","Display children flat","Hutang dan Modal",
+"report117","Hutang Lancar","10","Reverse balance sign","Account Type","Automatic formatting","Display children with hierarchy","Hutang","Payable,Current Liabilities"
+"report118","Hutang Jangka Panjang","20","Reverse balance sign","Account Type","Automatic formatting","Display children with hierarchy","Hutang","Non-current Liabilities"
+"report119","Modal","10","Reverse balance sign","Account Type","Automatic formatting","Display children with hierarchy","Hutang dan Modal","Equity,Current Year Earnings"
+"report120","Laba (Rugi) Tahun Berjalan","60","Reverse balance sign","Account Type","Automatic formatting","No detail","Hutang dan Modal","Other Income,Income,Depreciation,Expenses,Cost of Revenue"

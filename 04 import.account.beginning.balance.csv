@@ -1,0 +1,38 @@
+"Journal","Reference","Date","Journal Items/Account","Journal Items/Name","Journal Items/Partner","Journal Items/debit","Journal Items/credit"
+"Miscellaneous Operations","Beginning Balance","2017-01-01","1-111001","Kas Kecil",,50000000,
+,,,"1-112001","Mandiri Personal",,250000000,
+,,,"1-112002","Mandiri Bisnis",,100000000,
+,,,"1-112003","Muamalat",,50000000,
+,,,"1-112004","BNI",,200000000,
+,,,"1-112005","BCA",,125000000,
+,,,"1-121001","Piutang Usaha",,50000000,
+,,,"1-121002","Piutang Karyawan",,10000000,
+,,,"1-130001","Persediaan Daging",,0,
+,,,"1-130003","Persediaan Sayuran",,0,
+,,,"1-130005","Persediaan Buah",,0,
+,,,"1-130006","Persediaan Fresh Drink",,0,
+,,,"1-130007","Persediaan Rokok",,110000000,
+,,,"1-130013","Persediaan Fashion & Textil",,0,
+,,,"1-130016","Persediaan Elektronik",,0,
+,,,"1-130009","Persediaan Minuman",,175000000,
+,,,"1-130008","Persediaan Makanan",,130000000,
+,,,"1-130017","Persediaan Mainan",,0,
+,,,"1-221002","Bangunan Kantor",,1000000000,
+,,,"1-221003","Kendaraan",,200000000,
+,,,"1-221004","Perlatan Kantor",,200000000,
+,,,"1-221005","Software",,50000000,
+,,,"1-221006","Furnitur Kantor",,161000000,
+,,,"2-110001","Hutang Usaha",,,100000000
+,,,"2-110002","Hutang Pemegang Saham",,,50000000
+,,,"3-110001","Modal Dasar",,,2300000000
+,,,"4-100001","Penjualan",,,709000000
+,,,"8-110004","Pendapatan Lain",,,40000000
+,,,"5-100001","Harga Pokok Penjualan",,253000000,
+,,,"6-110001","Gaji Karyawan",,70000000,
+,,,"6-211002","Event ",,10000000,
+,,,"6-311005","Internet",,6000000,
+,,,"6-211004","Pengiriman Barang Dagang",,1000000,
+,,,"6-311012","Perlengkapan Kantor",,3000000,
+,,,"8-110001","Pendapatan Bunga",,,5000000
+,,,"3-900000","Debit Centralization",,3204000000,
+,,,"3-900000","Credit Centralization",,,3204000000
