@@ -1,0 +1,18 @@
+id,type,product_tmpl_id,product_uom,product_qty,BoM Lines / Product Unit of Measure,BoM Lines / Product Quantity,bom_lines/component_type,BoM Lines / Product
+11060024,normal,B@@SMP3  X14  F1,Pcs,400000,kg,525,raw_material,SWCH 18 A DIA 2.58
+,,,,,Pcs,2.5,Tools,PUNCH  JMP 3   12 MTS
+,,,,,Pcs,0.7143,Tools,SNAP  P   3 H1001
+,,,,,Pcs,0.1667,Tools,UKEKOMA  I 3 MR 25
+,,,,,Pcs,0.4,Tools,KIRIKOMA  2.58 H1001
+,,,,,Pcs,0.6667,Tools,KNIFE  2.58 H1001
+,,,,,Pcs,2,Tools,SNAP PIN  2.58 H1001
+,,,,,Pcs,0.8,Tools,UKEKOMA PIN  2.49 X 55
+,,,,,Pcs,0.1667,Tools,DIEPLATE  M   3   X  0.5 R1001
+,,,,,Pcs,500000,WASHER,WASHER SPRING  M 3 FOR ASFA
+,,,,,Pcs,500000,WASHER,WASHER PLAIN 3  X 8  X0.5 KZ
+12020007,normal,@@@RVK3  X11  AL IND1030,Pcs,400000,kg,104,raw_material,AL FK35  DIA 2.98
+,,,,,Pcs,0.8,Tools,PUNCH  P   037  12 AT
+,,,,,Pcs,0.8,Tools,SNAP  GFR 3 H1001
+,,,,,Pcs,0.0853,Tools,UKEKOMA  S 20258
+,,,,,Pcs,0.32,Tools,KIRIKOMA  2.99 H1001
+,,,,,Pcs,0.5333,Tools,KNIFE  3.00 H2012

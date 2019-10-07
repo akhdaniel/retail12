@@ -1,0 +1,7 @@
+id,code,name,resource_type
+100,HEAD,HEADING,material
+200,ROLL,ROLING,material
+300,FURN,FURNACE,material
+400,PLAT,PLATING,material
+500,FQ,FINAL QUALITY,user
+600,PAK,PACKING,user

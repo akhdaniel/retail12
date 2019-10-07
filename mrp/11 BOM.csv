@@ -1,0 +1,21 @@
+id,type,code,product_tmpl_id,product_uom_id,product_qty,BoM Lines / Product Unit of Measure,BoM Lines / Product Quantity,bom_lines/component_type,BoM Lines / Product
+bom001,normal,@O@PTB3  X10  F1,@O@PTB3  X10  F1,Pcs,60000,kg, 38.4000 ,raw_material,SWCH 18 A-TI DIA 2.51
+,,,,,,Pcs, 0.1714 ,Tools,PUNCH  JMB 3   12 AT
+,,,,,,Pcs, 0.0400 ,Tools,SNAP  B   3 H1570
+,,,,,,Pcs, 0.0120 ,Tools,UKEKOMA  3   BTR-AN
+,,,,,,Pcs, 0.0240 ,Tools,KIRIKOMA  2.52 H1001
+,,,,,,Pcs, 0.0240 ,Tools,KNIFE  2.52 H1010
+,,,,,,Pcs, 0.2400 ,Tools,SNAP PIN  2.58 H1001
+,,,,,,Pcs, 0.0960 ,Tools,UKEKOMA PIN  2.25 X 31.5
+,,,,,,Pcs, 0.0128 ,Tools,DIEPLATE  PT  3   X 10 R R1101(U)
+bom002,normal,@O@STN4  X 8-3F1 YG05021,@O@STN4  X 8-3F1 YG05021,Pcs,30000,kg, 32.1000 ,raw_material,SWCH 18 A DIA 3.86
+,,,,,,Pcs, 0.3000 ,Tools,HEAD Y 8835 T -H000
+,,,,,,Pcs, 0.1500 ,Tools,NIB Y 3293-2
+,,,,,,Pcs, 0.0750 ,Tools,UKEKOMA CASE YH204 8SS-3 Y2926
+,,,,,,Pcs, 0.6000 ,Tools,PUNCH Y 8835-P000
+,,,,,,Pcs, 0.1500 ,Tools,SNAP YH204-11-1-7
+,,,,,,Pcs, 0.0600 ,Tools,DIEPLATE Y 8835 R1001
+,,,,,,Pcs, 0.1000 ,Tools,KNIFE YH204-3-M002 DIA 3.86
+,,,,,,Pcs, 0.1000 ,Tools,KIRIKOMA YH204-2-M001 DIA 4.55
+,,,,,,Pcs, 0.0300 ,Tools,SHIBORI KOMA 204S30-T001 Y1513
+,,,,,,Pcs, 0.1500 ,Tools,SHIBORI PIN YH204-5-M000
